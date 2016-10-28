@@ -7,7 +7,7 @@ The game allows both a single-player mode (against a pretty clever AI) and a hot
 
 ## Installation
 
-The code is a Visual Studio Solution. **MSBuild** command line interface can be used for the compilation process.
+The code is a **Visual Studio Solution**. **MSBuild** command line interface can be used for the compilation process.
 This is captured in the beginning of the [video](https://www.youtube.com/watch?v=EU-zVCK77P4).
 
 ## License
