@@ -3,7 +3,7 @@
 A game written in **C# Windows Forms** in 2010. It is a variation of a popular desk game called Battleships. 
 The game allows both a single-player mode (against a pretty clever AI) and a hot-seating multi-player mode.
 
-[![Snake](http://img.youtube.com/vi/EU-zVCK77P4/0.jpg)](http://www.youtube.com/watch?v=EU-zVCK77P4 "Snake")
+[![Snake](http://img.youtube.com/vi/ZM8o0cvQ4hM/0.jpg)](http://www.youtube.com/watch?v=EU-zVCK77P4 "Snake")
 
 ## Installation
 
